@@ -2,7 +2,7 @@
 
 This study plan is designed to guide you through the "Getting Started with Rails" guide. Each section includes an estimated time for completion to help you manage your learning process.
 
-| Title | Estimated Hours | Actual Hours | Notes |
+| Title | Estimated Hours | Actual Hours | References |
 |---|---|---|---|
 | [Introduction](https://guides.rubyonrails.org/getting_started.html#introduction) | 1 | | [Notes](./notes/introduction.md) |
 | [Rails Philosophy](https://guides.rubyonrails.org/getting_started.html#rails-philosophy) | 1 | | [Notes](./notes/rails-philosophy.md) |
