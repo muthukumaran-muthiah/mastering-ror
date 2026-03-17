@@ -28,7 +28,7 @@ This study plan is designed to guide you through the "Getting Started with Rails
 | [A Request's Journey Through Rails](https://guides.rubyonrails.org/getting_started.html#a-request-s-journey-through-rails) | 2 | |
 | [Routes](https://guides.rubyonrails.org/getting_started.html#routes) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Parts of a URL](https://guides.rubyonrails.org/getting_started.html#parts-of-a-url) | 1 | |
-| &nbsp;&nbsp;&nbsp;&nbsp;[HTTP Methods and Their Purpose](httpshttps://guides.rubyonrails.org/getting_started.html#http-methods-and-their-purpose) | 1 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;[HTTP Methods and Their Purpose](https://guides.rubyonrails.org/getting_started.html#http-methods-and-their-purpose) | 1 | |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Rails Routes](https://guides.rubyonrails.org/getting_started.html#rails-routes) | 1 | |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Routes Command](https://guides.rubyonrails.org/getting_started.html#routes-command) | 1 | |
 | [Controllers & Actions](https://guides.rubyonrails.org/getting_started.html#controllers-actions) | | |
@@ -56,7 +56,7 @@ This study plan is designed to guide you through the "Getting Started with Rails
 | [Adding CSS & JavaScript](https://guides.rubyonrails.org/getting_started.html#adding-css-javascript) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Propshaft](https://guides.rubyonrails.org/getting_started.html#propshaft) | 0.5 | |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Import Maps](https://guides.rubyonrails.org/getting_started.html#import-maps) | 1 | |
-| &nbsp;&nbsp;&nbsp;&nbsp;[Hotwire](https://guides.ubyonrails.org/getting_started.html#hotwire) | 0.5 | |
+| &nbsp;&nbsp;&nbsp;&nbsp;[Hotwire](https://guides.rubyonrails.org/getting_started.html#hotwire) | 0.5 | |
 | [Testing](https://guides.rubyonrails.org/getting_started.html#testing) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Fixtures](https://guides.rubyonrails.org/getting_started.html#fixtures) | 2 | |
 | &nbsp;&nbsp;&nbsp;&nbsp;[Testing Emails](https://guides.rubyonrails.org/getting_started.html#testing-emails) | 2 | |
